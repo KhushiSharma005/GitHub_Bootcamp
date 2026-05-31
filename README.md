@@ -54,4 +54,4 @@ The login page displays:
 
 Khushi Sharma
 
-"Built with love with cipher school"
+<b>"Built with love with help of cipher school"<b>
